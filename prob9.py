@@ -1,0 +1,1 @@
+# Create a Product class with name and price. Create two objects and print their information.

@@ -1,0 +1,1 @@
+# Create a User class with a login() method. Create an Admin class that inherits from User and adds a delete_user() method.
